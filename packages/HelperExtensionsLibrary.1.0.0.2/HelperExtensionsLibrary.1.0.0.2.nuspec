@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>HelperExtensionsLibrary</id>
+    <version>1.0.0.2</version>
+    <title>HelperExtensionsLibrary</title>
+    <authors>Efim Goncharuk</authors>
+    <owners>Efim Goncharuk</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <projectUrl>https://github.com/Efimster/HelperExtensionsLibrary/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The library of helper extensions useful in any project</description>
+    <releaseNotes>first release</releaseNotes>
+    <copyright>Efimster</copyright>
+    <tags>Helper Extention IEnumerable</tags>
+  </metadata>
+</package>
